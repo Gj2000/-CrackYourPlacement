@@ -1,0 +1,5 @@
+ALGO
+First you have take the first string from the array and initialize it in the ans string
+secondly you have to run the for thr remaining strings and inside that start a while condition will run untile and unless my j<array[i].size() and k<ans.size()
+inside while you have to check that if array[i][j] ==ans[k] temp+=array[i][k] else break; j++ and k++; ans=temp
+then at last return the answer by ans.length()==0?'1':ans;
