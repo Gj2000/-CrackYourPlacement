@@ -1,0 +1,4 @@
+first sort both the arrays
+then take two pointers to traverse on two arrays 
+put one pointer on the fisrt index of trhe array and second pointer o the last index of the second array
+then  start the while loop inside that check for the conditions and accordingly increase and decrese the pointers 
