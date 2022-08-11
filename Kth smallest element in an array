@@ -1,0 +1,5 @@
+Step one is to create an priority queue
+In step 2 we will be pushing the elemnts till k
+after that for the rest of the rest of the rest of the elemnts we will comapre
+it with the top if the upcoming elment is smaller than the element present at top then pop the top and push that element in the queue
+after traversing all the remaining elements the element which is at the top of the queue will be our Kth smallest or Kth largset number
