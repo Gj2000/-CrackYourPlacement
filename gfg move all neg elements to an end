@@ -1,0 +1,3 @@
+step q1 is to create an array
+step 2 is to segregate the positive elements then negetaive elements by putting these elements into that created array
+step3 is to copy all the lements from our created array to the original array
