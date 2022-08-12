@@ -1,0 +1,7 @@
+Step1 take the variable of the long long type ans=arr[0]
+step2 take the another sum assign it to 0
+syep3 traverse in the loop 
+step4 sum+=arr[i]
+in that loop if(ans<sum) ans=sum
+again check for if(sum<0) sum=0
+after all the loop return the ans
