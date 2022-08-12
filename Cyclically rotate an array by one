@@ -1,0 +1,4 @@
+Step1 we are deacreing one variable an assigning the last value of an array to it
+Step2 we are having an loop which is starting from the ending index till the first index that is 1
+IN THAT LOOP WE ARE ASSIGNING THE the value of that index to the previous one
+step3 assign the first index to the k
